@@ -2,8 +2,9 @@
 
 ***About me***
 
-  I am a graduate as a Higher Technician in Multi-Platform Application Development. I’m currently furthering my studies and working on personal projects to build practical skills and explore new areas, especially in mobile and web development. I enjoy learning new technologies, solving   
-  challenges, and continuously improving as a developer.
+  I am a graduate as a Higher Technician in Multi-Platform Application Development. 
+  I’m currently furthering my studies and working on personal projects to build practical skills and explore new areas, especially in mobile and web development. 
+  I enjoy learning new technologies, solving challenges, and continuously improving as a developer.
 
 ## My Skills Include
 
