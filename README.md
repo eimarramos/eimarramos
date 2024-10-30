@@ -30,6 +30,12 @@
 <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
 </span>
 
+<h2>Portfolio:</h2>
+
+<a href="https://eimar-ramos-portfolio-2024.pages.dev/" target="_blank">
+  <img width="600" src="https://i.imgur.com/h3fsUKf.png">
+</a>
+
 <h2>Github stats:</h2> 
 
 [![](https://github-readme-stats.vercel.app/api?username=eimarramos&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/eimarramos)
