@@ -32,9 +32,7 @@
 
 <h2>Portfolio:</h2>
 
-<a href="https://eimar-ramos-portfolio-2024.pages.dev/" target="_blank">
-  <img width="600" src="https://i.imgur.com/h3fsUKf.png">
-</a>
+[![Portfolio](https://i.imgur.com/h3fsUKf.png)](https://eimar-ramos-portfolio-2024.pages.dev/ "Open in a new tab")
 
 <h2>Github stats:</h2> 
 
