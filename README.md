@@ -6,7 +6,7 @@
   I’m currently furthering my studies and working on personal projects to build practical skills and explore new areas, especially in mobile and web development. 
   I enjoy learning new technologies, solving challenges, and continuously improving as a developer.
 
-## My Skills Include
+## Tech Stack
 
 <span> 
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
