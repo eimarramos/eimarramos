@@ -1,4 +1,4 @@
-<h1 align="left"><b>Hi, I'm Eimar Ramos </b><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmtkb2ljajRoc2FoMXp0azd6aHdlMTNlOWhqYmo4cHR5NWVyM2F3MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Zx8bHOzanrLTkb52g6/giphy.gif" width="45"></h1>
+<h1 align="left"><b>Hi , I'm Eimar Ramos </b><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmtkb2ljajRoc2FoMXp0azd6aHdlMTNlOWhqYmo4cHR5NWVyM2F3MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Zx8bHOzanrLTkb52g6/giphy.gif" width="45"></h1>
 
 ***About me***
 
