@@ -32,11 +32,15 @@
 
 <h2>Portfolio:</h2>
 
+<div style="display: inline_block" align="center" >
 <a href="https://eimar-ramos-portfolio-2024.pages.dev/" target="_blank" rel="noopener noreferrer">
-  <img src="https://i.imgur.com/h3fsUKf.png" width="600">
+  <img src="https://i.imgur.com/h3fsUKf.png" width="710">
 </a>
+</div>
 
 <h2>Github stats:</h2> 
 
-[![](https://github-readme-stats.vercel.app/api?username=eimarramos&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/eimarramos)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=eimarramos&theme=material-palenight)](https://github.com/eimarramos)
+<div style="display: inline_block" align="center" >
+<p><img height="180em" src="https://github-readme-stats.vercel.app/api/?username=eimarramos&style=for-the-badge&show_icons=true&theme=dark&rank_icon=github"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eimarramos&layout=compact&langs_count=7&theme=dark"/></p>
+</div>
