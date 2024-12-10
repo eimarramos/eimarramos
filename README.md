@@ -41,6 +41,6 @@
 <h2>Github stats:</h2> 
 
 <div style="display: inline_block" align="center" >
-<p><img height="180em" src="https://github-readme-stats.vercel.app/api/?username=eimarramos&style=for-the-badge&show_icons=true&theme=dark&rank_icon=github"/>
+<p><img height="180em" src="https://github-readme-stats.vercel.app/api/?username=eimarramos&hide=stars&count_private=true&style=for-the-badge&show_icons=true&theme=dark&rank_icon=github"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eimarramos&layout=compact&langs_count=7&theme=dark"/></p>
 </div>
