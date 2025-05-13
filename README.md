@@ -33,14 +33,6 @@
 <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
 </span>
 
-<h2>Portfolio:</h2>
-
-<div style="display: inline_block" align="center" >
-<a href="https://eimar-ramos-portfolio-2024.pages.dev/" target="_blank" rel="noopener noreferrer">
-  <img src="https://i.imgur.com/h3fsUKf.png" width="710">
-</a>
-</div>
-
 <h2>Github stats:</h2> 
 
 <div style="display: inline_block" align="center" >
