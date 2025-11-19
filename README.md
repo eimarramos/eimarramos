@@ -2,9 +2,11 @@
 
 ## About me
 
-  I am a graduate as a Higher Technician in Multi-Platform Application Development. 
-  I’m currently furthering my studies and working on personal projects to build practical skills and explore new areas, especially in mobile and web development. 
-  I enjoy learning new technologies, solving challenges, and continuously improving as a developer.
+💻 I am a graduate as a Higher Technician in Multi-Platform Application Development.  
+🌱 I’m currently studying a specialization course in **Artificial Intelligence and Big Data** to keep growing my knowledge and skills in modern intelligent systems.  
+📱 I’m also working on personal projects to improve my abilities, especially in **mobile and web development**.  
+🚀 I enjoy learning new technologies, solving challenges, and constantly improving as a developer.
+
 
 ## Tech Stack
 
